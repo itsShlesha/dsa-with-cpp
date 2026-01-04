@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-
+using namespace std;
 /*
 -> Mountain array = strictly increasing → strictly decreasing
 -> We search for peak index, not a value
